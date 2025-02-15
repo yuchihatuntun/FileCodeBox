@@ -4,7 +4,7 @@
 
 <img src="https://fastly.jsdelivr.net/gh/vastsa/FileCodeBox@V1.6/static/banners/img_1.png" alt="FileCodeBox Logo">
 
-<p><em>Share text and files anonymously with a passcode, like picking up a package</em></p>
+<p><em>Share test and files anonymously with a passcode, like picking up a package</em></p>
 
 [![GitHub stars](https://img.shields.io/github/stars/vastsa/FileCodeBox)](https://github.com/vastsa/FileCodeBox/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/vastsa/FileCodeBox)](https://github.com/vastsa/FileCodeBox/network)
